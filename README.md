@@ -28,3 +28,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BACHUBHAVANA&show_icons=true&locale=en" alt="BACHUBHAVANA" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BACHUBHAVANA&" alt="BACHUBHAVANA" /></p>
+
+### View Count
+<p align="left"> 
+  
+  <img src="https://profile-counter.glitch.me/BACHUBHAVANA/count.svg" />
+</p>
+
+
